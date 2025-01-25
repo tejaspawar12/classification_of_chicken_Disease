@@ -1,1 +1,0 @@
-# classification_of_chicken_Disease
